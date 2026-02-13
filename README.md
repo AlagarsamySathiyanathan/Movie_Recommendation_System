@@ -10,15 +10,14 @@ The application is deployed using Streamlit for an interactive web interface.
 
 == 📸 Application Demo
 
+### 📊 Full Application View
+![Full App View](https://github.com/user-attachments/assets/a3ee2e69-7b0f-46da-a294-8172a6b4d416)
+
 ### 🔎 Movie Search Interface
 ![Search UI](https://github.com/user-attachments/assets/ffa97613-5271-40f1-9ecd-ab89735d19c4)
 
 ### 🎯 Recommendation Results
 ![Recommendation Results](https://github.com/user-attachments/assets/c2070dbd-2cf6-48a5-92d6-a0852a644c03)
-
-### 📊 Full Application View
-![Full App View](https://github.com/user-attachments/assets/a3ee2e69-7b0f-46da-a294-8172a6b4d416)
-
 
 
 
