@@ -1,4 +1,4 @@
-Movie Recommendation System
+Bollywood Movie Recommendation System
 
 == Overview
 
@@ -7,6 +7,20 @@ This project is a Content-Based Movie Recommendation System that suggests simila
 The system was built using a custom dataset of approximately 4000 movies, where IMDb IDs were collected and detailed movie metadata was extracted, cleaned, and processed before model development.
 
 The application is deployed using Streamlit for an interactive web interface.
+
+== 📸 Application Demo
+
+### 🔎 Movie Search Interface
+![Search UI](https://github.com/user-attachments/assets/ffa97613-5271-40f1-9ecd-ab89735d19c4)
+
+### 🎯 Recommendation Results
+![Recommendation Results](https://github.com/user-attachments/assets/c2070dbd-2cf6-48a5-92d6-a0852a644c03)
+
+### 📊 Full Application View
+![Full App View](https://github.com/user-attachments/assets/a3ee2e69-7b0f-46da-a294-8172a6b4d416)
+
+
+
 
 == Dataset Creation Pipeline
 
