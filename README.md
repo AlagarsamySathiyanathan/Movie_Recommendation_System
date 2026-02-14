@@ -21,7 +21,7 @@ The application is deployed using Streamlit for an interactive web interface.
 
 
 
-== Dataset Creation Pipeline
+## Dataset Creation Pipeline
 
 The dataset was created in multiple stages:
 
@@ -29,7 +29,7 @@ Extracted IMDb IDs for movie titles
 
 Retrieved detailed metadata for each movie
 
-== Collected attributes including:
+## Collected attributes including:
 
 Movie Name
 
@@ -43,11 +43,11 @@ Duration
 
 Cast
 
-== Performed data cleaning and null value handling
+## Performed data cleaning and null value handling
 
 Standardized genre formatting
 
-== Model Development
+## Model Development
 
 The recommendation engine uses a Content-Based Filtering approach.
 
@@ -71,7 +71,7 @@ Returns top N most similar movies
 
 Optional actor-based filtering is available
 
-== Features
+## Features
 
 Genre-based movie recommendations
 
@@ -83,7 +83,7 @@ Top-N recommendation selection
 
 Interactive Streamlit UI
 
-=== Tech Stack
+## Tech Stack
 
 Python
 
@@ -107,7 +107,7 @@ OpenPyXL
 ├── requirements.txt
 └── README.md
 
-== Installation & Setup
+## Installation & Setup
 
 Clone the repository:
 
@@ -130,7 +130,7 @@ Run the application:
 
 streamlit run R_S_deploye.py
 
-== Future Improvements
+## Future Improvements
 
 Add movie overview-based NLP recommendations
 
@@ -140,7 +140,7 @@ Add movie posters using external API
 
 Deploy on cloud (Streamlit Cloud / Render / AWS)
 
-=== Key Learning Outcomes
+## Key Learning Outcomes
 
 Built complete data collection pipeline
 
